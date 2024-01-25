@@ -3,7 +3,7 @@ Olá! Eu sou o João Paiva 🖐️
 [![LinkedIn]()
 
 
-!Arthur GitHub stats
+!Levi-Paiva GitHub stats
 
 Algumas das tecnologias que eu uso
 <div style="display: inline_block">
