@@ -1,5 +1,5 @@
 Olá! Eu sou o João Paiva 🖐️
-[![Blog](https://img.shields.io/website?label=arthurssj.github.io&style=for-the-badge&url=https://sujeitoprogramador.com/)]()
+[![Blog]()]()
 [![LinkedIn]()
 
 
